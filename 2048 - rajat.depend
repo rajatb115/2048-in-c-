@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1445052804 source:b:\new folder\code blocks\2048 - rajat\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+
+1445052997 source:b:\new folder\code blocks\completed projects\2048 - rajat\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+
+1475602984 source:b:\new_folder\code blocks\completed projects\2048 - rajat\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+
